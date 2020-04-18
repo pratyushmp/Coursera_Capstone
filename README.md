@@ -1,2 +1,2 @@
 # Coursera_Capstone
-Applied Data Science Capstone (Coursera)
+This repository contains all the  materials required for the Applied Data Science Capstone Project.
